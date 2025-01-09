@@ -4,3 +4,5 @@
 ### Si dicha persona procede a desofuscar su herramienta en su repositorio original pondré este en privado, hasta entonces quedará público.
 
 > Le cambié el nombre porque hackear lo que se dice hackear esto no lo hace ni es para eso, es para encontrar CCTVs públicas por Internet...
+
+> Igual encontráis algún error, pero ahora mismo no estoy interesado en arreglar nada, tampoco es para eso este repositorio.
